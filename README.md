@@ -4,7 +4,8 @@
   <img src="https://raw.githubusercontent.com/harryzjm/harryzjm.github.com/master/assets/photo/welcome.gif">
 </div>
 
-### Hi there, I'm Hares. 👋
+### Hi there, I'm Hares. 👋  
+Currently i am not looking for a new job
 
 ```swift  
 let introduce = [
