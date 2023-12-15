@@ -5,7 +5,7 @@
 </div>
 
 ### Hi there, I'm Hares. 👋  
-Currently i am not looking for a new job
+Currently i am looking for a new job
 
 ```swift  
 let introduce = [
